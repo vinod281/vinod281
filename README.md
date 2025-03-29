@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Vinod Rahal!  
-🚀 Software Engineer | 📚 Bookstore Owner | 💻 Tech Enthusiast  
+🚀 Software Engineer | 💻 Tech Enthusiast  
 
 Welcome to my GitHub profile! I'm passionate about building innovative web and desktop applications. I enjoy working with **C#, .NET, React, Java, SQL, and Tailwind CSS**.  
 
