@@ -42,30 +42,6 @@
 
 ---
 
-## 📌 Notable Projects
-
-### **EduLearn - Digital Education Platform**  
-📍 A high school learning platform with **quizzes, interactive lessons, and personalized learning paths**.  
-🔗 **[GitHub Repo](#)** | 🖥 **[Live Demo](#)**  
-
-### **E-Commerce Website**  
-🛍️ Built with **React, .NET, and SQL** for a seamless shopping experience.  
-🔗 **[GitHub Repo](#)** | 🖥 **[Live Demo](#)**  
-
-### **Auction System**  
-💰 A **real-time auction** platform with **JWT authentication, bid updates, and user management**.  
-🔗 **[GitHub Repo](#)** | 🖥 **[Live Demo](#)**  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VinodRahal&show_icons=true&theme=github_dark" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=VinodRahal&theme=github-dark-blue&hide_border=true" width="48%" alt="GitHub Streak"/>
-</p>
-
----
 
 ## 📬 Connect with Me
 
