@@ -1,6 +1,6 @@
 <h1 align="center">Vinod Rahal</h1>
 <p align="center">
-  <strong>Software Engineer | Full-Stack Developer | Entrepreneur</strong>
+  <strong>Software Engineer | Full-Stack Developer </strong>
 </p>
 
 <p align="center">
